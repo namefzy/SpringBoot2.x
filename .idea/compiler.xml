@@ -6,11 +6,45 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Chapter_1" />
+        <module name="Chapter_15" />
+        <module name="Chapter_14" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Chapter_1" target="1.8" />
+      <module name="Chapter_10" target="1.8" />
+      <module name="Chapter_11" target="1.8" />
+      <module name="Chapter_12" target="1.8" />
+      <module name="Chapter_13" target="1.8" />
+      <module name="Chapter_14" target="1.8" />
+      <module name="Chapter_15" target="1.8" />
+      <module name="Chapter_2" target="1.8" />
+      <module name="Chapter_3" target="1.8" />
+      <module name="Chapter_4" target="1.8" />
+      <module name="Chapter_5" target="1.8" />
+      <module name="Chapter_6" target="1.8" />
+      <module name="Chapter_7" target="1.8" />
+      <module name="Chapter_8" target="1.8" />
+      <module name="Chapter_9" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Chapter_1" options="-parameters" />
+      <module name="Chapter_10" options="-parameters" />
+      <module name="Chapter_11" options="-parameters" />
+      <module name="Chapter_12" options="-parameters" />
+      <module name="Chapter_13" options="-parameters" />
+      <module name="Chapter_14" options="-parameters" />
+      <module name="Chapter_15" options="-parameters" />
+      <module name="Chapter_2" options="-parameters" />
+      <module name="Chapter_3" options="-parameters" />
+      <module name="Chapter_4" options="-parameters" />
+      <module name="Chapter_5" options="-parameters" />
+      <module name="Chapter_6" options="-parameters" />
+      <module name="Chapter_7" options="-parameters" />
+      <module name="Chapter_8" options="-parameters" />
+      <module name="Chapter_9" options="-parameters" />
+    </option>
   </component>
 </project>

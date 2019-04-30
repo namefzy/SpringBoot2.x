@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/Chapter_1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_10" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_11" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_12" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_13" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_14" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_15" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_5" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_5/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter_9" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

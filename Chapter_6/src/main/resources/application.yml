@@ -1,0 +1,4 @@
+spring:
+  swagger:
+    base-package: com.example.demo.web
+    enabled: true

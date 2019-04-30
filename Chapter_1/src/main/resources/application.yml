@@ -7,6 +7,7 @@ server:
 spring:
   profiles:
     active: dev
+
 #gril:
 #  age: 10
 #  name: fuzhongyu
